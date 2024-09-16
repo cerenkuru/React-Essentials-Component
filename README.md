@@ -1,5 +1,5 @@
 # React-Essentials-Component
 Information about React Component
-You should run:
+# You should run
 npm install
 npm run dev
